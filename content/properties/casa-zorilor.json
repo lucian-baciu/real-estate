@@ -1,0 +1,137 @@
+{
+  "slug": "casa-zorilor",
+  "name": "Casa Zorilor",
+  "location": "Zorilor, Cluj-Napoca",
+  "region": "Transylvania, Romania",
+  "eyebrow": "Casa Zorilor",
+  "headline": "Casa\nZorilor.",
+  "intro": "Descoperă Casa Zorilor prin imagini din camere, bucătărie, băi, hol și spațiile exterioare.",
+  "status": "For sale",
+  "price": 485000,
+  "currency": "EUR",
+  "areaSqm": 240,
+  "landSqm": 860,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "yearBuilt": 2023,
+  "energyRating": "A",
+  "storyTitle": "Descoperă\nCasa Zorilor.",
+  "story": [
+    "Galeria prezintă spațiile interioare ale casei, de la recepție și hol până la camere, bucătărie și băi.",
+    "Imaginile exterioare și vederea acoperișului completează turul vizual al proprietății."
+  ],
+  "images": [
+    {
+      "src": "/images/casa-zorilor/receptie.jpeg",
+      "alt": "Recepția Casei Zorilor",
+      "caption": "Recepție"
+    },
+    {
+      "src": "/images/casa-zorilor/acoperis.JPG",
+      "alt": "Acoperișul Casei Zorilor",
+      "caption": "Acoperiș"
+    },
+    {
+      "src": "/images/casa-zorilor/baie1.jpeg",
+      "alt": "Baie la Casa Zorilor, prima vedere",
+      "caption": "Baie"
+    },
+    {
+      "src": "/images/casa-zorilor/baie2.jpeg",
+      "alt": "Baie la Casa Zorilor, a doua vedere",
+      "caption": "Baie"
+    },
+    {
+      "src": "/images/casa-zorilor/baie3.JPG",
+      "alt": "Baie la Casa Zorilor, a treia vedere",
+      "caption": "Baie"
+    },
+    {
+      "src": "/images/casa-zorilor/bucatarie1.jpeg",
+      "alt": "Bucătărie la Casa Zorilor, prima vedere",
+      "caption": "Bucătărie"
+    },
+    {
+      "src": "/images/casa-zorilor/bucatarie2.jpeg",
+      "alt": "Bucătărie la Casa Zorilor, a doua vedere",
+      "caption": "Bucătărie"
+    },
+    {
+      "src": "/images/casa-zorilor/camera1.jpeg",
+      "alt": "Cameră la Casa Zorilor, prima vedere",
+      "caption": "Cameră"
+    },
+    {
+      "src": "/images/casa-zorilor/camera2.jpeg",
+      "alt": "Cameră la Casa Zorilor, a doua vedere",
+      "caption": "Cameră"
+    },
+    {
+      "src": "/images/casa-zorilor/camera3.jpeg",
+      "alt": "Cameră la Casa Zorilor, a treia vedere",
+      "caption": "Cameră"
+    },
+    {
+      "src": "/images/casa-zorilor/camera4.jpeg",
+      "alt": "Cameră la Casa Zorilor, a patra vedere",
+      "caption": "Cameră"
+    },
+    {
+      "src": "/images/casa-zorilor/camera5.jpeg",
+      "alt": "Cameră la Casa Zorilor, a cincea vedere",
+      "caption": "Cameră"
+    },
+    {
+      "src": "/images/casa-zorilor/exterior1.JPG",
+      "alt": "Exteriorul Casei Zorilor, prima vedere",
+      "caption": "Exterior"
+    },
+    {
+      "src": "/images/casa-zorilor/exterior2.JPG",
+      "alt": "Exteriorul Casei Zorilor, a doua vedere",
+      "caption": "Exterior"
+    },
+    {
+      "src": "/images/casa-zorilor/exterior3.JPG",
+      "alt": "Exteriorul Casei Zorilor, a treia vedere",
+      "caption": "Exterior"
+    },
+    {
+      "src": "/images/casa-zorilor/hol.jpeg",
+      "alt": "Holul Casei Zorilor",
+      "caption": "Hol"
+    },
+    {
+      "src": "/images/casa-zorilor/hol2.JPG",
+      "alt": "A doua vedere a holului",
+      "caption": "Hol"
+    },
+    {
+      "src": "/images/casa-zorilor/receptie2.jpeg",
+      "alt": "A doua vedere a recepției",
+      "caption": "Recepție"
+    }
+  ],
+  "features": [
+    "Recepție",
+    "Camere",
+    "Bucătărie",
+    "Băi",
+    "Hol",
+    "Spații exterioare"
+  ],
+  "locationTitle": "În cartierul Zorilor.",
+  "locationDescription": "Casa Zorilor se află în zona Zorilor din Cluj-Napoca.",
+  "mapQuery": "Zorilor, Cluj-Napoca, Romania",
+  "nearby": [
+    {
+      "name": "Cartierul Zorilor",
+      "time": "În zonă"
+    },
+    {
+      "name": "Cluj-Napoca",
+      "time": "În oraș"
+    }
+  ],
+  "coverImage": "/images/casa-zorilor/receptie.jpeg"
+}

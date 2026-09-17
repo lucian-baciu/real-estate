@@ -1,0 +1,30 @@
+{
+  "slug": "courtyard-house-sibiu",
+  "name": "The Courtyard House",
+  "location": "Historic Quarter, Sibiu",
+  "region": "Transylvania, Romania",
+  "eyebrow": "A slower city rhythm",
+  "headline": "Old soul.\nNew beginnings.",
+  "intro": "Quiet courtyards, warm textures, and a city full of stories just beyond your door. A thoughtfully restored home in the heart of Sibiu.",
+  "status": "For sale",
+  "price": 325000,
+  "currency": "EUR",
+  "areaSqm": 165,
+  "landSqm": 310,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "yearBuilt": 1930,
+  "energyRating": "B",
+  "storyTitle": "A home with\nsomething to say.",
+  "story": ["Behind a modest street entrance, a private courtyard opens onto a home full of warmth. Original details sit comfortably alongside a fresh, thoughtful renovation.", "Three bedrooms and generous shared spaces make room for friends and family, while the sheltered courtyard offers a peaceful place to begin and end each day."],
+  "images": [
+    { "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=85", "alt": "Inviting neutral living room in a thoughtfully restored house", "caption": "A new chapter, beautifully lived." },
+    { "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=85", "alt": "Restored home interior with warm finishes", "caption": "Small details. Lasting character." },
+    { "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1600&q=85", "alt": "Light-filled space for everyday living", "caption": "Make yourself at home." }
+  ],
+  "features": ["Private inner courtyard", "Restored original details", "Modern heating system", "Walkable historic location", "Separate guest room", "Recently renovated kitchen"],
+  "locationTitle": "A city at your doorstep.",
+  "locationDescription": "Walk to a morning market, linger in the old town, and find a new favourite café. This peaceful pocket of Sibiu puts daily life within easy reach.",
+  "mapQuery": "Historic Centre, Sibiu, Romania",
+  "nearby": [{ "name": "The Great Square", "time": "8 min walk" }, { "name": "Local market", "time": "5 min walk" }, { "name": "Train station", "time": "12 min walk" }]
+}

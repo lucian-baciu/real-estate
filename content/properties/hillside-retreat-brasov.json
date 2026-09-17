@@ -1,0 +1,30 @@
+{
+  "slug": "hillside-retreat-brasov",
+  "name": "The Hillside Retreat",
+  "location": "Șchei, Brașov",
+  "region": "Transylvania, Romania",
+  "eyebrow": "A different perspective",
+  "headline": "Wake up\nto something more.",
+  "intro": "Fresh mountain air, expansive views, and space to settle into your own rhythm. A light-filled retreat above the rooftops of Brașov.",
+  "status": "For sale",
+  "price": 395000,
+  "currency": "EUR",
+  "areaSqm": 195,
+  "landSqm": 620,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "yearBuilt": 2022,
+  "energyRating": "A",
+  "storyTitle": "Life looks good\nfrom up here.",
+  "story": ["Set against a green hillside, this contemporary home frames the landscape from almost every room. The seasons become part of the interior, from summer greens to snow-covered roofs.", "An open-plan ground floor flows onto a generous terrace. Upstairs, quiet bedrooms offer a welcome retreat after a day spent exploring the mountains or the city below."],
+  "images": [
+    { "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2200&q=85", "alt": "Light-filled contemporary home with natural finishes", "caption": "A little space above it all." },
+    { "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85", "alt": "Airy living room with large windows", "caption": "Let the outside in." },
+    { "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=85", "alt": "Comfortable living space with a generous seating area", "caption": "Stay a little longer." }
+  ],
+  "features": ["Panoramic hillside views", "Large outdoor terrace", "Dedicated home office", "Energy-efficient glazing", "Private parking", "Direct access to walking trails"],
+  "locationTitle": "Mountains meet city life.",
+  "locationDescription": "The winding streets of Șchei lead from forest trails to the historic heart of Brașov. An ideal base for people who feel most at home with a little adventure nearby.",
+  "mapQuery": "Schei, Brasov, Romania",
+  "nearby": [{ "name": "Forest trails", "time": "3 min walk" }, { "name": "Council Square", "time": "10 min drive" }, { "name": "Poiana Brașov", "time": "25 min drive" }]
+}
