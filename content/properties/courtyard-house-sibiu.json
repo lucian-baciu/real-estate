@@ -26,5 +26,7 @@
   "locationTitle": "A city at your doorstep.",
   "locationDescription": "Walk to a morning market, linger in the old town, and find a new favourite café. This peaceful pocket of Sibiu puts daily life within easy reach.",
   "mapQuery": "Historic Centre, Sibiu, Romania",
+  "mapLatitude": 45.7975,
+  "mapLongitude": 24.1516,
   "nearby": [{ "name": "The Great Square", "time": "8 min walk" }, { "name": "Local market", "time": "5 min walk" }, { "name": "Train station", "time": "12 min walk" }]
 }

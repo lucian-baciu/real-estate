@@ -123,6 +123,8 @@
   "locationTitle": "În cartierul Zorilor.",
   "locationDescription": "Casa Zorilor se află în zona Zorilor din Cluj-Napoca.",
   "mapQuery": "Zorilor, Cluj-Napoca, Romania",
+  "mapLatitude": 46.7521,
+  "mapLongitude": 23.5868,
   "nearby": [
     {
       "name": "Cartierul Zorilor",

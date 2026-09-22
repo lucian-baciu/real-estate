@@ -26,5 +26,7 @@
   "locationTitle": "Mountains meet city life.",
   "locationDescription": "The winding streets of Șchei lead from forest trails to the historic heart of Brașov. An ideal base for people who feel most at home with a little adventure nearby.",
   "mapQuery": "Schei, Brasov, Romania",
+  "mapLatitude": 45.6352,
+  "mapLongitude": 25.5768,
   "nearby": [{ "name": "Forest trails", "time": "3 min walk" }, { "name": "Council Square", "time": "10 min drive" }, { "name": "Poiana Brașov", "time": "25 min drive" }]
 }

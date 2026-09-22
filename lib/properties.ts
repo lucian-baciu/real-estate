@@ -20,12 +20,15 @@ export const propertySchema = z.object({
   coverImage: imageSource.optional(),
   images: z.array(z.object({ src: imageSource, alt: text, caption: text })).min(2),
   features: z.array(text).min(1), locationTitle: text, locationDescription: text,
-  mapQuery: text, nearby: z.array(z.object({ name: text, time: text })).min(1),
+  mapQuery: text,
+  mapLatitude: z.number().min(-90).max(90),
+  mapLongitude: z.number().min(-180).max(180),
+  nearby: z.array(z.object({ name: text, time: text })).min(1),
 });
 export type Property = z.infer<typeof propertySchema>;
 
 export const siteSchema = z.object({
-  brand: text, tagline: text, defaultProperty: slug, email: z.email(), contactName: text,
+  brand: text, tagline: text, defaultProperty: slug, contactName: text,
   contactNote: text, footerNote: text, demo: z.boolean(),
   seller: z.object({ name: text, role: text, phone: text, image: imageSource.nullable() }),
 });

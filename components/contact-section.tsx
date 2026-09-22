@@ -11,8 +11,8 @@ export function ContactSection({site,property}:{site:Site;property?:string}){
   return <section className="contact-section" id="contact">
     <div className="seller-panel">
       <p className="kicker">Contact direct</p>
-      <div className="seller-portrait">{site.seller.image?<Image src={site.seller.image} alt={site.seller.name} fill sizes="(max-width: 760px) 100vw, 42vw"/>:<span>{initials}</span>}</div>
-      <div className="seller-details"><div><h2>{site.seller.name}</h2><p>{site.seller.role}</p></div><a href={phoneHref}>{site.seller.phone}</a></div>
+      <div className="seller-portrait">{site.seller.image?<Image src={site.seller.image} alt={site.seller.name} fill sizes="(max-width: 760px) 144px, 168px"/>:<span>{initials}</span>}</div>
+      <div className="seller-details"><h2>{site.seller.name}</h2><p>{site.seller.role}</p><a className="seller-phone" href={phoneHref}><span>Telefon</span>{site.seller.phone}</a></div>
     </div>
     <div className="form-panel"><p className="kicker">{property?"Vizionare privată":"Spune-ne ce cauți"}</p><h2>{property?<>Poate fi locul<br/><em>potrivit.</em></>:<>Începem cu o<br/><em>conversație.</em></>}</h2><p>{site.contactNote}</p>
       {state==="sent"?<div className="form-success" role="status"><strong>Mulțumim.</strong><span>Mesajul a fost trimis. Revenim cât mai curând.</span></div>:<form onSubmit={submit}>
